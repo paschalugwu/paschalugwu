@@ -15,17 +15,20 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 | ***Python, R, SQL, BASh, C***  \|  ***Spreadsheet***  \|  ***Bioinformatics Algorithm***  \|  ***Data Manipulation*** \| ***Communication*** \|
 | ***Database management***  \|  ***High Performance Computing (HPC)***  \|  ***Statistical Data Analysis***  \|  ***Data Visualization*** | 
 
-| Education 2 | Education 1 | 
-| --- | --- | 
+| **Education** | 
+| --- | 
 | **alx_africa**<br>Software Engineering and Data Science<br>May 2023 - Present
-[Website](https://www.alxafrica.com) | **Michael Okpara University of Agriculture, Umudike, Abia State**<br>Nigeria<br>B.Sc. Biochemistry<br>January 2016 - June 2020
+[Website](https://www.alxafrica.com) | 
+| **Michael Okpara University of Agriculture, Umudike, Abia State**<br>Nigeria<br>B.Sc. Biochemistry<br>January 2016 - June 2020
 [Website](https://mouau.edu.ng) | 
 
 
-| Experience 2 | Experience 1 | 
-| --- | --- | 
+| **Experience** | 
+| --- |
 | **HackBerry Summer Intern at Chains Lab, University of Massachusetts Lowell**<br>United States<br>Research Internship<br>May 2023 - August 2023
-[Website](https://fredericchain.weebly.com/humans.html) | **Helix Biogen Institute**<br>Ogbomosho, Oyo State, Nigeria<br>Research Internship<br>January 2023 - July 2023 | 
+[Website](https://fredericchain.weebly.com/humans.html) | 
+| **Helix Biogen Institute**<br>Ogbomosho, Oyo State, Nigeria<br>Research Internship<br>January 2023 - July 2023
+[Website](https://www.helixbiogeninstitute.org) |
 
 
 ## Projects
