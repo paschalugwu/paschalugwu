@@ -49,7 +49,7 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 ## Projects
 
 ### Project 1. Enhancing Access to Safe and Affordable Drinking Water: Data Analysis and Insights.
-! [Dashboard Display](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project1/dashboard.jpg)
+![Dashboard Display](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project1/dashboard.jpg)
 
 In this project, I embarked on a comprehensive journey to tackle the global challenge of providing safe and affordable drinking water. The project aimed to understand and transform the data related to access to drinking water.  
  
@@ -62,7 +62,7 @@ The project findings are showcased in a comprehensive dashboard format, providin
 To explore the project in more detail, you can find the complete project on [GitHub](https://github.com/paschalugwu/Integrated_Project-Access_To_Drinking_Water).
 
 ### Project 2. Maji Ndogo: Data-Driven Insights for Sustainable Water Access and Quality.
-! [Water Sources in Maji Ndogo](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project2/water_sources_visual.png)
+![Water Sources in Maji Ndogo](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project2/water_sources_visual.png)
 
 In this project, I embarked on a data-driven journey to address the challenges of water access and quality in Maji Ndogo. Through comprehensive analysis and exploration, I uncovered key insights and trends that shed light on the issues faced by the community. The project is divided into four parts: 
  
