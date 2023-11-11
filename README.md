@@ -20,21 +20,23 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 - Software Engineering and Data Science Student
 - May 2023 - Present
 
-### HackBerry Summer Intern at Chains Lab
-- University of Massachusetts Lowell
-- Internship
+### HackBerry Summer Intern at Chains Lab, University of Massachusetts Lowell
+- United States
+- Research Internship
 - May 2023 - August 2023
 - [Website](https://fredericchain.weebly.com/humans.html)
 
 ### Helix Biogen Institute
-- Research Intern
-- January 2023 - July 2023
 - Ogbomosho, Oyo State, Nigeria
+- Research Internship
+- January 2023 - July 2023
+- [Website](https://www.helixbiogeninstitute.org)
 
 ### HackBio
+- Remote
 - Research Fellow
 - August 2022 - July 2023
-- Remote
+- [Website](https://thehackbio.com)
 
 ## Skills
 - Programming Languages (Python, R, SQL, BASh, C)
