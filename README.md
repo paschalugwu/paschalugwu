@@ -5,15 +5,14 @@
 ## About
 Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted passion for using data science and software engineering approaches to revolutionize healthcare research. With expertise in data science, software engineering, bioinformatics, and statistical analysis, Paschal is committed to advancing disease management strategies for both infectious and noninfectious diseases. Paschal's goal is to contribute to the development of innovative solutions that merge cutting-edge analytical methods with high-quality research; he aims to forge a path toward a healthier world by harnessing the power of data and technology to improve global well-being.
 
+
 | **Top Skills** | 
 | --- | 
 | Data Science \| Software Engineering \| Bioinformatics | 
  
 | Social Profiles | 
 | --- | 
-| [Github](https://github.com/paschalugwu) | 
-| [Twitter](https://twitter.com/Paschal_Ugwu001) | 
-| [LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) | 
+| [Github](https://github.com/paschalugwu) \| [Twitter](https://twitter.com/Paschal_Ugwu001) \| [LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) | 
  
 | Experience | 
 | --- | 
