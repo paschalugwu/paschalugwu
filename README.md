@@ -5,19 +5,26 @@
 ## About
 Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted passion for using data science and software engineering approaches to revolutionize healthcare research. With expertise in data science, software engineering, bioinformatics, and statistical analysis, Paschal is committed to advancing disease management strategies for both infectious and noninfectious diseases. Paschal's goal is to contribute to the development of innovative solutions that merge cutting-edge analytical methods with high-quality research; he aims to forge a path toward a healthier world by harnessing the power of data and technology to improve global well-being.
 
+| **Social Profiles** | 
+| --- | 
+| [Github](https://github.com/paschalugwu) \| [Twitter](https://twitter.com/Paschal_Ugwu001) \| [LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) | 
+
 
 | **Skills** | 
 | --- | 
 | ***Python, R, SQL, BASh, C***  \|  ***Spreadsheet***  \|  ***Bioinformatics Algorithm***  \|  ***Data Manipulation*** \| ***Communication*** \|
 | ***Database management***  \|  ***High Performance Computing (HPC)***  \|  ***Statistical Data Analysis***  \|  ***Data Visualization*** | 
- 
-| **Social Profiles** | 
+
+| Education | 
 | --- | 
-| [Github](https://github.com/paschalugwu) \| [Twitter](https://twitter.com/Paschal_Ugwu001) \| [LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) | 
- 
+| **alx_africa**<br>Software Engineering and Data Science<br>May 2023 - Present
+[Website](https://www.alxafrica.com) | 
+| **Michael Okpara University of Agriculture, Umudike, Abia State**<br>Nigeria<br>B.Sc. Biochemistry<br>January 2016 - June 2020
+[Website](https://mouau.edu.ng) | 
+
+
 | Experience | 
-| --- | 
-| **alx_africa**<br>Software Engineering and Data Science Student<br>May 2023 - Present | 
+| --- |
 | **HackBerry Summer Intern at Chains Lab, University of Massachusetts Lowell**<br>United States<br>Research Internship<br>May 2023 - August 2023
 [Website](https://fredericchain.weebly.com/humans.html) | 
 | **Helix Biogen Institute**<br>Ogbomosho, Oyo State, Nigeria<br>Research Internship<br>January 2023 - July 2023
