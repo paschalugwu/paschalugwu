@@ -6,9 +6,10 @@
 Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted passion for using data science and software engineering approaches to revolutionize healthcare research. With expertise in data science, software engineering, bioinformatics, and statistical analysis, Paschal is committed to advancing disease management strategies for both infectious and noninfectious diseases. Paschal's goal is to contribute to the development of innovative solutions that merge cutting-edge analytical methods with high-quality research; he aims to forge a path toward a healthier world by harnessing the power of data and technology to improve global well-being.
 
 
-| **Top Skills** | 
+| **Skills** | 
 | --- | 
-| Data Science \| Software Engineering \| Bioinformatics | 
+| ***Programming Languages*** (Python, R, SQL, BASh, C)  \|  ***Spreadsheet***  \|  ***Bioinformatics Algorithm***  \|  ***Data Manipulation*** | 
+| ***Database management***  \|  ***High Performance Computing (HPC)***  \|  ***Statistical Data Analysis***  \|  ***Data Visualization*** | 
  
 | Social Profiles | 
 | --- | 
@@ -23,11 +24,7 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 [Website](https://www.helixbiogeninstitute.org) | 
 | **HackBio**<br>Remote<br>Research Fellow<br>August 2022 - July 2023
 [Website](https://thehackbio.com) | 
- 
-| Skills | 
-| --- | 
-| Programming Languages (Python, R, SQL, BASh, C) \| Spreadsheet \| Bioinformatics Algorithm \| Data Manipulation | 
-| Database management \| High Performance Computing (HPC) \| Statistical Data Analysis \| Data Visualization | 
+
 
 ## Projects
 
