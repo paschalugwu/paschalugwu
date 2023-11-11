@@ -7,7 +7,7 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 | **Social Profiles** | 
 | --- | 
-| [Github](https://github.com/paschalugwu) \| [Twitter](https://twitter.com/Paschal_Ugwu001) \| [LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) | 
+| [LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) \| [Github](https://github.com/paschalugwu) \| [Twitter](https://twitter.com/Paschal_Ugwu001) |  
 
 
 | **Skills** | 
