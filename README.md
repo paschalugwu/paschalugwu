@@ -8,7 +8,7 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 | **Skills** | 
 | --- | 
-| ***Programming Languages*** (Python, R, SQL, BASh, C)  \|  ***Spreadsheet***  \|  ***Bioinformatics Algorithm***  \|  ***Data Manipulation*** | 
+| ***Python, R, SQL, BASh, C***  \|  ***Spreadsheet***  \|  ***Bioinformatics Algorithm***  \|  ***Data Manipulation*** | 
 | ***Database management***  \|  ***High Performance Computing (HPC)***  \|  ***Statistical Data Analysis***  \|  ***Data Visualization*** | 
  
 | Social Profiles | 
