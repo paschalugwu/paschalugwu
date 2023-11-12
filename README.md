@@ -17,9 +17,8 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 ## Education
 
-| **alx_africa** | **Michael Okpara University of Agriculture** |
-| --- | --- |
-| Lagos State, Nigeria | Abia State, Nigeria |
+| **ALX Africa Lagos, Nigeria** | **Michael Okpara University of Agriculture, Umudike, Nigeria** |
+| :---: | :---: |
 | Software Engineering and Data Science | B.Sc. Biochemistry |
 | May 2023 - Present | January 2016 - June 2020 |
 | [Website](https://www.alxafrica.com) | [Website](https://mouau.edu.ng) |
