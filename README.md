@@ -33,7 +33,7 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 ## Projects
 
-| :---: | | :---: |
+|:---:| |:---:|
 |### Project 1. Enhancing Access to Safe and Affordable Drinking Water: Data Analysis and Insights.
 ![Dashboard Display](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project1/dashboard.jpg)
 
