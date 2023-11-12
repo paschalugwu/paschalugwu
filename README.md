@@ -15,12 +15,14 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 | ***Python, R, SQL, BASh, C***  \|  ***Spreadsheet***  \|  ***Bioinformatics Algorithm***  \|  ***Data Manipulation*** \| ***Communication*** \|
 | ***Database management***  \|  ***High Performance Computing (HPC)***  \|  ***Statistical Data Analysis***  \|  ***Data Visualization*** | 
 
-| **Education** | 
-| --- | 
-| **alx_africa**<br>Software Engineering and Data Science<br>May 2023 - Present
-[Website](https://www.alxafrica.com) | 
-| **Michael Okpara University of Agriculture, Umudike, Abia State**<br>Nigeria<br>B.Sc. Biochemistry<br>January 2016 - June 2020
-[Website](https://mouau.edu.ng) | 
+## Education
+
+| **alx_africa** | **Michael Okpara University of Agriculture** |
+| --- | --- |
+| Lagos State, Nigeria | Abia State, Nigeria |
+| Software Engineering and Data Science | B.Sc. Biochemistry |
+| May 2023 - Present | January 2016 - June 2020 |
+| [Website](https://www.alxafrica.com) | [Website](https://mouau.edu.ng) |
 
 
 ## Experience
