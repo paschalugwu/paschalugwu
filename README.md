@@ -1,6 +1,6 @@
 # Paschal Ugwu
 
-![Profile Picture](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/Paschal%20Ugwu%20-%20Professional%20Picture.png)
+![Profile Picture](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/CoverImage.png)
 
 ## About
 Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted passion for using data science and software engineering approaches to revolutionize healthcare research. With expertise in data science, software engineering, bioinformatics, and statistical analysis, Paschal is committed to advancing disease management strategies for both infectious and noninfectious diseases. Paschal's goal is to contribute to the development of innovative solutions that merge cutting-edge analytical methods with high-quality research; he aims to forge a path toward a healthier world by harnessing the power of data and technology to improve global well-being.
@@ -33,7 +33,8 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 ## Projects
 
-### Project 1. Enhancing Access to Safe and Affordable Drinking Water: Data Analysis and Insights.
+| :---: | | :---: |
+|### Project 1. Enhancing Access to Safe and Affordable Drinking Water: Data Analysis and Insights.
 ![Dashboard Display](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project1/dashboard.jpg)
 
 In this project, I embarked on a comprehensive journey to tackle the global challenge of providing safe and affordable drinking water. The project aimed to understand and transform the data related to access to drinking water.  
@@ -44,9 +45,9 @@ In the second part of the project, I focused on transforming the data and analyz
  
 The project findings are showcased in a comprehensive dashboard format, providing a visual representation of the insights gained from the data analysis. The dashboard provides an overview of access to safe and affordable drinking water. 
  
-To explore the project in more detail, you can find the complete project on [GitHub](https://github.com/paschalugwu/Integrated_Project-Access_To_Drinking_Water).
+To explore the project in more detail, you can find the complete project on [GitHub](https://github.com/paschalugwu/Integrated_Project-Access_To_Drinking_Water).|
 
-### Project 2. Maji Ndogo: Data-Driven Insights for Sustainable Water Access and Quality.
+|### Project 2. Maji Ndogo: Data-Driven Insights for Sustainable Water Access and Quality.
 ![Water Sources in Maji Ndogo](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project2/water_sources_visual.png)
 
 In this project, I embarked on a data-driven journey to address the challenges of water access and quality in Maji Ndogo. Through comprehensive analysis and exploration, I uncovered key insights and trends that shed light on the issues faced by the community. The project is divided into four parts: 
@@ -68,7 +69,7 @@ In this project, I embarked on a data-driven journey to address the challenges o
    - Analyzing disparities in water access and broken infrastructure. 
    - Identifying contaminated wells and proposing solutions for shared taps and reliance on rivers as water sources. 
     
-The project aims to provide actionable insights and solutions to enhance water access, quality, and infrastructure in Maji Ndogo. By leveraging data-driven approaches, the project seeks to contribute to a sustainable future where clean and reliable water is accessible to all. To explore the project in more detail, you can find the complete project on [GitHub](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project2/water_sources_visual.png).
+The project aims to provide actionable insights and solutions to enhance water access, quality, and infrastructure in Maji Ndogo. By leveraging data-driven approaches, the project seeks to contribute to a sustainable future where clean and reliable water is accessible to all. To explore the project in more detail, you can find the complete project on [GitHub](https://github.com/paschalugwu/paschalugwu/blob/master/Image/project2/water_sources_visual.png).|
 
 
 © [2023] [Paschal Ugwu]
