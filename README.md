@@ -17,14 +17,14 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 ## Education
 
-| -------------------------- | -------------------------- | 
+| ---------------------------------------------------- | ---------------------------------------------------- | 
 | :---: | :---: | 
 | ![ExploreAI](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/ExploreAI.PNG) | ![Holberton](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/holberton.PNG) |
 | ![Udacity](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/Udacity.PNG) | ![MOUAU](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/Michael.PNG) |
 
 ## Experience
 
-| -------------------------- | -------------------------- | 
+| ---------------------------------------------------- | ---------------------------------------------------- | 
 | :---: | :---: | 
 | ![Chains Lab](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/chain.PNG) | ![Helix Biogen Institute](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/helix.PNG) |
 
