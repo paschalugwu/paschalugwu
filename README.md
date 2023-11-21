@@ -17,6 +17,7 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 ## Education
 
+| -------------------------- | -------------------------- | 
 | :---: | :---: | 
 | ![ExploreAI](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/ExploreAI.PNG) | ![Holberton](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/holberton.PNG) |
 | :---: | :---: | 
