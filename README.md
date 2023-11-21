@@ -24,7 +24,9 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 ## Experience
 
-![Experience](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/Experience.PNG)
+| -------------------------- | -------------------------- | 
+| :---: | :---: | 
+| ![Chains Lab](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/chain.PNG) | ![Helix Biogen Institute](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/helix.PNG) |
 
 
 ## Projects
