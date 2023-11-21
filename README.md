@@ -17,21 +17,12 @@ Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted
 
 ## Education
 
-| **ALX Africa, Lagos, Nigeria** | **Michael Okpara University of Agriculture, Umudike, Nigeria** |
-| :---: | :---: |
-| Software Engineering and Data Science | B.Sc. Biochemistry |
-| May 2023 - Present | January 2016 - June 2020 |
-| [Website](https://www.alxafrica.com) | [Website](https://mouau.edu.ng) |
+![Education](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/Education.PNG)
 
 
 ## Experience
 
-| **HackBerry Summer Intern at Chains Lab** | **Helix Biogen Institute** | **HackBio** |
-| :---: | :---: | :---: |
-| University of Massachusetts Lowell, United States | Ogbomosho, Oyo State, Nigeria | Virtual |
-| Research Internship | Research Internship | Research Fellow |
-| May 2023 - August 2023 | January 2023 - July 2023 | August 2022 - July 2023 |
-| [Website](https://fredericchain.weebly.com/humans.html) | [Website](https://www.helixbiogeninstitute.org) | [Website](https://thehackbio.com) |
+![Experience](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/Experience.PNG)
 
 
 ## Projects
