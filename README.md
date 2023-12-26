@@ -9,9 +9,9 @@
 
 🎓 Graduating from the ExploreAI data science program in July 2024, I'm eager to delve into roles in data science, machine learning, or data engineering. Feel free to reach out via email at ugwupaschal@gmail.com.
 
-👨‍💻 Proficient: Python, Spreadsheet, Power BI, SQL, C, Git, BASh, High Performance Computing (HPC), Data Visualization
-🔍 Knowledgeable: R, Computer Vision
-📚 Familiar: Natural Language Processing (NLP)
+- 👨‍💻 Proficient: Python, Spreadsheet, Power BI, SQL, C, Git, BASh, High Performance Computing (HPC), Data Visualization
+- 🔍 Knowledgeable: R, Computer Vision
+- 📚 Familiar: Natural Language Processing (NLP)
 
 
 | **Social Profiles** | 
