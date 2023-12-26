@@ -7,7 +7,7 @@
 
 💡 I enjoy tackling challenges with inventive algorithms and explaining complex ideas in ways that everyone can understand. I'm comfortable working independently or collaboratively, having gained leadership experience across various fields. Effective communication and problem-solving are my strengths.
 
-🎓 Graduating from the ExploreAI data science program in July 2024, I'm eager to delve into roles in data science, machine learning, or data engineering. Feel free to reach out via email at ugwupaschal@gmail.com.
+🎓 Graduating from the ExploreAI data science and Holberton software engineering programs in July 2024, I'm eager to delve into roles in data science, machine learning, or data engineering. Feel free to reach out via email at ugwupaschal@gmail.com.
 
 - 👨‍💻 Proficient: Python, Spreadsheet, Power BI, SQL, C, Git, BASh, High Performance Computing (HPC), Data Visualization
 - 🔍 Knowledgeable: R, Computer Vision
