@@ -3,17 +3,20 @@
 ![Profile Picture](https://github.com/paschalugwu/paschalugwu/blob/master/Image/Personal/CoverImage.png)
 
 ## About
-Paschal Ugwu is a highly skilled bioinformatician who is driven by a deep-rooted passion for using data science and software engineering approaches to revolutionize healthcare research. With expertise in data science, software engineering, bioinformatics, and statistical analysis, Paschal is committed to advancing disease management strategies for both infectious and noninfectious diseases. Paschal's goal is to contribute to the development of innovative solutions that merge cutting-edge analytical methods with high-quality research; he aims to forge a path toward a healthier world by harnessing the power of data and technology to improve global well-being.
+🔍 I'm passionate about unraveling insights from diverse industries as an aspiring data scientist. My skills encompass machine learning, product management, data analysis, and software engineering, supported by a background in biochemistry and bioinformatics.
+
+💡 I enjoy tackling challenges with inventive algorithms and explaining complex ideas in ways that everyone can understand. I'm comfortable working independently or collaboratively, having gained leadership experience across various fields. Effective communication and problem-solving are my strengths.
+
+🎓 Graduating from the ExploreAI data science program in July 2024, I'm eager to delve into roles in data science, machine learning, or data engineering. Feel free to reach out via email at ugwupaschal@gmail.com.
+
+👨‍💻 Proficient: Python, Spreadsheet, Power BI, SQL, C, Git, BASh, High Performance Computing (HPC), Data Visualization
+🔍 Knowledgeable: R, Computer Vision
+📚 Familiar: Natural Language Processing (NLP)
+
 
 | **Social Profiles** | 
 | --- | 
 | [LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) \| [Github](https://github.com/paschalugwu) \| [Twitter](https://twitter.com/Paschal_Ugwu001) |  
-
-
-| **Skills** | 
-| --- | 
-| ***Python, R, SQL, BASh, C***  \|  ***Spreadsheet***  \|  ***Bioinformatics Algorithm***  \|  ***Data Manipulation*** \| ***Communication*** \|
-| ***Database management***  \|  ***High Performance Computing (HPC)***  \|  ***Statistical Data Analysis***  \|  ***Data Visualization*** | 
 
 
 ## Projects
