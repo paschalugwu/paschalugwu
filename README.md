@@ -25,5 +25,9 @@
 | --- | --- |  
 | **Skills**: Data Analysis (Google Sheets), Data Transformation (Data Cleaning and Preprocessing), Data Visualization (Chart and Graph Creation) [GitHub link](https://github.com/paschalugwu/Integrated_Project-Access_To_Drinking_Water) | **Skills**: Data Analysis (SQL, Jupyter Notebook, Google Sheets), Data Visualization (Chart and Graph Creation), Problem-Solving and Communication Skills [GitHub link](https://github.com/paschalugwu/Maji_Ndogo-Water_Crisis) | 
 
+| Project 3. Power BI-driven Insights: Unveiling Societal Dynamics through Data Visualization and Storytelling in Maji Ndogo. | --- | 
+| --- | --- |  
+| **Skills**: Microsoft Power BI Proficiency, Data Visualization and Storytelling, Data Analysis and Interpretation, DAX Implementation and Reporting, Problem-solving and Methodologies, User-Centric Design and Communication, Budgeting and Resource Allocation Skills, Understanding Societal Dynamics, Project Management and Progress Tracking, Impactful Data-driven Decision Making [GitHub link](https://github.com/paschalugwu/Maji_Ndogo-Visualization/blob/main/README.md) | --- | 
+
 
 © [2023] [Paschal Ugwu]
