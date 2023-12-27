@@ -23,7 +23,7 @@
 
 | Project 1. Enhancing Access to Safe and Affordable Drinking Water: Data Analysis and Insights. | Project 2. Maji Ndogo: Data-Driven Insights for Sustainable Water Access and Quality. | 
 | --- | --- |  
-| **Skills**: Data Analysis (Google Sheets), Data Transformation (Data Cleaning and Preprocessing), Data Visualization (Chart and Graph Creation) [GitHub link](https://github.com/paschalugwu/Integrated_Project-Access_To_Drinking_Water) | **Skills**: Data Analysis (SQL, Jupyter Notebook, Google Sheets), Data Visualization (Chart and Graph Creation), Problem-Solving and Communication Skills [GitHub link](https://github.com/paschalugwu/Maji_Ndogo-Water_Crisis) | 
+| **Skills**: Data Analysis (Google Sheets), Data Transformation (Data Cleaning and Preprocessing), Data Visualization (Chart and Graph Creation) [GitHub link](https://github.com/paschalugwu/Google_Sheet_Project-Access_To_Drinking_Water/blob/main/README.md) | **Skills**: Data Analysis (SQL, Jupyter Notebook, Google Sheets), Data Visualization (Chart and Graph Creation), Problem-Solving and Communication Skills [GitHub link](https://github.com/paschalugwu/SQL-Water_Crisis_Project/blob/main/README.md) | 
 
 | Project 3. Power BI-driven Insights: Unveiling Societal Dynamics through Data Visualization and Storytelling in Maji Ndogo. | --- | 
 | --- | --- |  
