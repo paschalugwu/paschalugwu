@@ -34,9 +34,6 @@
     <a href="your-portfolio-URL">
       <img src="https://img.shields.io/badge/Portfolio Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
-    <a href="https://twitter.com/Paschal_Ugwu001">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
     <a href="https://www.kaggle.com/paschalugwu">
       <img src="https://img.shields.io/badge/Kaggle-green?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
