@@ -23,9 +23,22 @@
 
 ---
 
-| **Social Profiles** | 
-| --- | 
-| [🔗 LinkedIn](https://www.linkedin.com/in/paschal-ugwu-52abb6229/) \| [💻 Github](https://github.com/paschalugwu) \| [✖️ Twitter](https://twitter.com/Paschal_Ugwu001) |  
+### Social Profiles
+
+<div id="header" align="center">
+ 
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/paschal-ugwu-52abb6229/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="your-portfolio-URL">
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://twitter.com/Paschal_Ugwu001">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
 ---
 
