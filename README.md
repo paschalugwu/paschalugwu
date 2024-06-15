@@ -71,16 +71,8 @@
 ### :fire: My Github Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paschalugwu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paschalugwu&theme=dracula) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&layout=compact&theme=vision-friendly-dark)](https://github.com/paschalugwu/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu)](https://github.com/paschalugwu/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&size_weight=0.5&count_weight=0.5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paschalugwu&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&size_weight=0.5&count_weight=0.5&langs_count=12&layout=compact&theme=vision-friendly-dark)](https://github.com/paschalugwu/github-readme-stats)
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
 
 © [2024] [Paschal Ugwu]
