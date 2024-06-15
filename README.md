@@ -75,10 +75,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&layout=compact&theme=vision-friendly-dark)](https://github.com/paschalugwu/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=paschalugwu)](https://github.com/paschalugwu/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paschalugwu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=paschalugwu&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paschalugwu&repo=github-readme-stats)](https://github.com/paschalugwu/github-readme-stats)
 
 © [2024] [Paschal Ugwu]
