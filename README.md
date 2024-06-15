@@ -79,6 +79,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&size_weight=0.5&count_weight=0.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&size_weight=0.5&count_weight=0.5&langs_count=15)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&size_weight=0.5&count_weight=0.5&langs_count=20)
 
 © [2024] [Paschal Ugwu]
