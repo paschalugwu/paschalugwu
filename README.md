@@ -81,4 +81,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&size_weight=0.5&count_weight=0.5&langs_count=12&layout=compact&theme=vision-friendly-dark)](https://github.com/paschalugwu/github-readme-stats)
 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?paschalugwu=ffflabs)
+
 © [2024] [Paschal Ugwu]
