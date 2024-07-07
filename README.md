@@ -72,6 +72,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paschalugwu&size_weight=0.5&count_weight=0.5&langs_count=12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=paschalugwu&repo=github-readme-stats)](https://github.com/paschalugwu/github-readme-stats)
+[![Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=paschalugwu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 © [2024] [Paschal Ugwu]
