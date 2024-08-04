@@ -28,10 +28,10 @@
 <div id="header" align="center">
  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/paschal-ugwu-52abb6229/">
+    <a href="https://www.linkedin.com/in/paschal-ugwu/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-portfolio-URL">
+    <a href="https://paschalugwu.github.io/">
       <img src="https://img.shields.io/badge/Portfolio Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
