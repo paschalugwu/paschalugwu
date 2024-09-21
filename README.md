@@ -9,7 +9,7 @@
 ## About
 I am a results-driven data scientist with a passion for leveraging machine learning and advanced analytics to solve complex problems and drive impactful decisions. I excel in transforming data into actionable insights that enhance business growth and efficiency. My experience spans data analysis, machine learning, software engineering, and research, where I have successfully contributed to high-impact projects using cutting-edge data science and technology.
 
-🆆🅷🅰🆃 🅸 🅱🆁🅸🅽🅶:
+𝐖𝐡𝐚𝐭 𝐈 𝐁𝐫𝐢𝐧𝐠:
 
 1. 𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓬𝓮 𝓔𝔁𝓹𝓮𝓻𝓽𝓲𝓼𝓮: I have developed and deployed machine learning models, including decision trees, random forests, and deep learning algorithms, to solve real-world problems. My work includes creating a 97.49% accurate optical character recognition system using PyTorch and leveraging AutoGluon for predictive analysis, optimizing resource allocation in logistics, and enhancing strategies.
 
@@ -19,7 +19,7 @@ I am a results-driven data scientist with a passion for leveraging machine learn
 
 4. 𝓡𝓮𝓼𝓮𝓪𝓻𝓬𝓱 & 𝓑𝓲𝓸𝓲𝓷𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓬𝓼: With experience in applying advanced data science techniques to biological datasets, I have contributed to research projects at the University of Massachusetts Lowell and Helix Biogen Institute. I applied bioinformatics algorithms and computational methods to genomic data analysis, managing large datasets and developing efficient workflows.
 
-🆆🅷🆈 🅲🅾🅽🅽🅴🅲🆃 🆆🅸🆃🅷 🅼🅴:
+𝐖𝐡𝐲 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞:
 
 I am passionate about driving innovation through data science and machine learning, always eager to connect with professionals, industry leaders, and potential collaborators. I thrive in environments where I can use my skills to create data-driven solutions that make a measurable impact. If you’re looking for someone who can turn data into strategic insights, develop robust machine learning models, or build scalable software solutions, let's connect!
 
